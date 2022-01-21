@@ -1,5 +1,9 @@
 
 //SPDX-License-Identifier: Unlicense
+/* Bnbsailor Team is delighted to introduce the latest yield farming in 2022 From 115% to 327% APR from Australia. 
+The commitment period ranges from 7 to 60 days with a minimum investment amount of 0.1 BNB. We encourage you only invest what you are comfortable with and stay in it for the longer period to increase your gains.BNBsailor rewards program features 5 ranks of status rewards for recruiting more investors to build a larger community. 
+So, for a recruit you onboard you will receive 5%, 3%, 2%, 1% and 0.5% of their deposits across multiple navy officer ranks.
+ */
 pragma solidity >=0.8.0;
 
 struct Tarif {
